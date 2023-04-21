@@ -1,3 +1,6 @@
 <?php
 
- dump(1123);
+class conreoller index()
+{
+ var_dump('即将上传代码');
+}
